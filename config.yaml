@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    mrossi:
+      email: mrossi@email.com # user: mrossi
+      name: Mario Rossi
+      password: $2b$12$9XGVJOqrHkCghp1a7fti7OOpovfzYKZnDqCGR1.VagBGr9/km0wVi # password: password
+cookie:
+  expiry_days: 0
+  key: testKey # Must be string
+  name: testName
